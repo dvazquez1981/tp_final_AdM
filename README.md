@@ -2,10 +2,8 @@
 
 ## Profesoras
 * María Carina Roldán
-* Ariadna Garmendia
 ## Integrantes
 
-* Tomás Abraham
 * Diego Aníbal Vázquez
 
 ## Grupo
