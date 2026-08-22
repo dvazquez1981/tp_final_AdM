@@ -3,7 +3,7 @@
 ## Profesor/a
 
 - María Carina Roldán
-
+- Facundo Lucianna
 ## Integrante
 
 - Diego Aníbal Vázquez
