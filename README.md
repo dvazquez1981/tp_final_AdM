@@ -1,6 +1,6 @@
-# TPG_Final - Análisis de Datos
+# TPG_Final - Aprendizaje de máquina
 
-## Profesoras
+## Profesor@s
 * María Carina Roldán
 ## Integrantes
 
